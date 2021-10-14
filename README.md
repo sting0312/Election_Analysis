@@ -1,7 +1,7 @@
 # Overview of Election Audit
 The purpose of this election audit is to understand not only the results of the populus vote, but also where voter turnout is highest.
 
-#Election Audit Results
+# Election Audit Results
 *  There were 369,711 total votes in this congressional election.
 *  There were 38,855 total votes, or 10.5% of all votes in Jefferson County
 *  There were 306,055 total votes, or 82.8% of all votes in Denver County
@@ -15,7 +15,7 @@ The purpose of this election audit is to understand not only the results of the 
 
 *  The winner of the election was Diana DeGette, with 272,892 votes, or 73.8% of the total votes
 
-#Election Audit Summary
+# Election Audit Summary
 The script could be used for all voting applications with a few modifications. So far, the script only populates 3 lists, the unique voter ID, the county that was voted in, and the candidate that was voted for.
 It then counts, through a total count, and a count by county, which candidate was voted for on each ballot.
 It then returns a total count of votes, and a percentage by candidate and by county of the toal votes cast.
